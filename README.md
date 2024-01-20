@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kknowk
 - 🌱 I’m currently learning in 42
-- 💞️ I love
+- 💞️ I love music!
 
 | github stats | 42 stats |
 | :---: | :---: |
